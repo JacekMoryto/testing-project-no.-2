@@ -1,2 +1,6 @@
 # testing-project-no.-2
-exploratory testing / defect report / test report
+Testowanie funkcjonalne aplikacji internetowej http://sports.williamhill.com/bet/pl, świadczącej usługi bukmacherskie, z użyciem podejścia eksploracyjnego. 
+
+Znalezione, udokumentowane defekty znajdują się w pliku "DefectReport.xlsx"
+
+Raport z testów znajduje się w pliku o nazwie "TestReport.pdf"
