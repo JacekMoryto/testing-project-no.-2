@@ -4,3 +4,7 @@ Testowanie funkcjonalne aplikacji internetowej http://sports.williamhill.com/bet
 Znalezione, udokumentowane defekty znajdują się w pliku "DefectReport.xlsx"
 
 Raport z testów znajduje się w pliku o nazwie "TestReport.pdf"
+
+Autor: Jacek Moryto
+
+linkedin: www.linkedin.com/in/jacek-moryto
