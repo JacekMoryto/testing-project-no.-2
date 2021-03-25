@@ -7,6 +7,8 @@ Testing Trello API with use of Postman tool, just to refresh my already gained k
 
 * Writing simple tests/scripts using variables. 
 
+* Writing tests for cookies/headers.
+
 Exported Collection in attached file "refresherProject_trelloAPI.postman_collection.json"
 
 Author: Jacek Moryto - www.linkedin.com/in/jacek-moryto
