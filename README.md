@@ -1,5 +1,5 @@
 # testing-project-no.-2
-Testing trello's API with use of Postman tool, just to refresh my already gained knowledge.
+Testing Trello API with use of Postman tool, just to refresh my already gained knowledge.
 
 * Using 4 basic HTTP requests: GET, POST, PUT, DELETE.
 
