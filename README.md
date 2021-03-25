@@ -1,8 +1,9 @@
 # testing-project-no.-2
-Testowanie funkcjonalne aplikacji internetowej http://sports.williamhill.com/bet/pl, świadczącej usługi bukmacherskie, z użyciem podejścia eksploracyjnego. 
+Testing trello's API just to refresh my already gained knowledge.
+Using 4 basic HTTP requests: GET, POST, PUT, DELETE.
+Using assertions/advanced assertions on nested objects/arrays.
+Writing simple tests/scripts using variables. 
 
-Znalezione, udokumentowane defekty znajdują się w pliku "defect.report.xlsx"
+Exported Collection in attached file "refresherProject_trelloAPI.postman_collection.json"
 
-Raport z testów znajduje się w pliku o nazwie "test.report.pdf"
-
-Autor: Jacek Moryto - www.linkedin.com/in/jacek-moryto
+Author: Jacek Moryto - www.linkedin.com/in/jacek-moryto
