@@ -1,7 +1,7 @@
 # testing-project-no.-2
 Testing trello's API just to refresh my already gained knowledge.
 
-Using 4 basic HTTP requests: GET, POST, PUT, DELETE.
+* Using 4 basic HTTP requests: GET, POST, PUT, DELETE.
 
 Using assertions/advanced assertions on nested objects/arrays.
 
