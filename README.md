@@ -3,7 +3,7 @@ Testing Trello API with use of Postman tool, just to refresh my already gained k
 
 * Using 4 basic HTTP requests: GET, POST, PUT, DELETE.
 
-* creating assertions/advanced assertions on nested objects/arrays.
+* Creating assertions/advanced assertions on nested objects/arrays.
 
 * Writing simple tests/scripts using variables. 
 
