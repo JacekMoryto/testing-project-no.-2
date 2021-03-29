@@ -10,5 +10,6 @@ Testing Trello API with use of Postman tool, just to refresh my already gained k
 * Basic cookies & headers testing. 
 
 Exported Collection in attached file "Refresher Project TRELLO API.postman_collection.json"
+Exported environment: "Trello Refresher Project.postman_environment.json"
 
 Author: Jacek Moryto - www.linkedin.com/in/jacek-moryto
